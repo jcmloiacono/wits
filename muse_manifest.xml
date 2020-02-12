@@ -1,0 +1,565 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wits.cl" resolutions="1x" timestamp="1541467127519">
+  <folder name="css">
+    <file name="site_global.css" crc="4005209764"/>
+    <file name="index.css" crc="299077621" ref="index"/>
+    <file name="nomq_index.css" crc="4047376507" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="hover-min.css" crc="3881979905" seo="true" mt="1528695874000"/>
+    <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1385430786000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u10253.php" crc="479494687" ref="index"/>
+    <file name="form-u10462.php" crc="4185424703" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="441155599" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wits blanco.png" crc="3796843857" ref="index" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo solo.png" crc="4076577043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ojo de fuego.jpg" crc="3792690015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edificio vista arriba2.jpg" crc="3957189960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo wits color y blanco.png" crc="474327188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bueno.png" crc="443868827" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visit.png" crc="4067994064" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inspection.png" crc="449467743" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="western-digital-logo-300x300.jpg" crc="319299028" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acer.jpg" crc="413939505" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled.jpg" crc="4287081508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toshiba_logo-u7515-fr.png" crc="3818356504" ref="index"/>
+    <file name="zaragoza-partners-ibm-u7517-fr.jpg" crc="287842734" ref="index"/>
+    <file name="mac-u15711-fr.jpg" crc="3841989951" ref="index"/>
+    <file name="microsoft-logo.jpg" crc="52538798" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dell.jpg" crc="71059038" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siemens.jpg" crc="4270699020" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intel.jpg" crc="117550479" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redhat.jpg" crc="3776881562" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="java-u15865-fr.png" crc="52984666" ref="index"/>
+    <file name="windows-u15887-fr.png" crc="4184567565" ref="index"/>
+    <file name="cisco.jpg" crc="495729147" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logitech-logo-u15931-fr.jpg" crc="140955926" ref="index"/>
+    <file name="450_1000-u15953-fr.jpg" crc="3865040117" ref="index"/>
+    <file name="huaweii-u15975-fr.jpg" crc="4165986381" ref="index"/>
+    <file name="msi.png" crc="146057254" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubiquiti_logo.png" crc="423803193" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortinet.jpg" crc="238166833" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wdproducts.png" crc="4126230014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acer producto.jpg" crc="97978900" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="samsung productos.jpg" crc="503299187" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibm.jpg" crc="230212754" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apple.jpg" crc="3991382479" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft.jpg" crc="4081524740" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dell2.jpg" crc="4193664422" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siemens2.jpg" crc="3866610059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="family-core-ci5i9i7-9thgen-rgb-3000_zedu.png" crc="3780082599" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redhat3png.jpg" crc="4224272046" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jre.jpg" crc="3896955939" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cisco2.jpg" crc="2142620" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logitech-logo.jpg" crc="353088258" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nvda73n90.jpg" crc="86021027" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nvidia.jpg" crc="3878744310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msi-gaming.jpg" crc="425957959" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero-product-finder1.png" crc="4040447515" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortinet-mexico.jpg" crc="21412331" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="90dd9f12fdd1eefb8c8976903944c026-icono-de-icono-de-facebook-by-vexels.png" crc="4055158811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="md_5aeee1ce6ebda.png" crc="4262581941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="90dd9f12fdd1eefb8c8976903944c026-icono-de-icono-de-facebook-by-vexels2.png" crc="380505902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconos-referencia-correopng.gif" crc="329136574" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="md_5aeee1ce6ebda2.png" crc="517863768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario01.jpg" crc="4037477797" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario02.jpg" crc="309863679" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario03.jpg" crc="3775637159" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enviar.png" crc="467490410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wits blanco-u10609-fr.png" crc="297061777" ref="index"/>
+    <file name="ico-twitter.png" crc="1490722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mapa-mundial-de-las-redes-sociales-1728x800_c.jpg" crc="3951506852" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="http.jpg" crc="360542329" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cibercrimen.jpg" crc="3764731294" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inicio-normal.png" crc="10135371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-u7518-fr.jpg" crc="4228750246" ref="index"/>
+    <file name="toshiba_logo.png" crc="362143940" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zaragoza-partners-ibm.jpg" crc="28839473" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mac.jpg" crc="4250500537" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft-logo-u15755-fr.jpg" crc="4293043224" ref="index"/>
+    <file name="java.png" crc="10257832" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="windows-u15887-fr2.png" crc="260300082" ref="index"/>
+    <file name="cisco-u15909-fr.jpg" crc="87763943" ref="index"/>
+    <file name="logitech-logo2.jpg" crc="254294859" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="450_1000.jpg" crc="3974742115" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huaweii.jpg" crc="330461050" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depression.jpg" crc="41847244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="western-digital-logo-300x300-u7516-fr.jpg" crc="4073656863" ref="index"/>
+    <file name="acer-u7514-fr.jpg" crc="326158462" ref="index"/>
+    <file name="untitled-u7518-fr2.jpg" crc="457130519" ref="index"/>
+    <file name="toshiba_logo-u7515-fr2.png" crc="3938222985" ref="index"/>
+    <file name="zaragoza-partners-ibm-u7517-fr2.jpg" crc="467115271" ref="index"/>
+    <file name="mac-u15711-fr2.jpg" crc="123013296" ref="index"/>
+    <file name="microsoft-logo-u15755-fr2.jpg" crc="4153068940" ref="index"/>
+    <file name="dell-u15777-fr.jpg" crc="4278036270" ref="index"/>
+    <file name="siemens-u15799-fr.jpg" crc="246672705" ref="index"/>
+    <file name="intel-u15821-fr.jpg" crc="261819526" ref="index"/>
+    <file name="redhat-u15843-fr.jpg" crc="240268644" ref="index"/>
+    <file name="java-u15865-fr2.png" crc="183783431" ref="index"/>
+    <file name="windows-u15887-fr3.png" crc="324696617" ref="index"/>
+    <file name="cisco-u15909-fr2.jpg" crc="3977905905" ref="index"/>
+    <file name="450_1000-u15953-fr2.jpg" crc="4042170277" ref="index"/>
+    <file name="ubiquiti_logo-u16019-fr.png" crc="64674796" ref="index"/>
+    <file name="wdproducts-u7524-fr.png" crc="4001478064" ref="index"/>
+    <file name="acer producto-u7521-fr.jpg" crc="4007207685" ref="index"/>
+    <file name="samsung productos-u7522-fr.jpg" crc="3598393" ref="index"/>
+    <file name="apple-u15722-fr.jpg" crc="530422177" ref="index"/>
+    <file name="microsoft-u15766-fr.jpg" crc="259455888" ref="index"/>
+    <file name="dell2-u15788-fr.jpg" crc="4107097219" ref="index"/>
+    <file name="siemens-u15810-fr.jpg" crc="351816123" ref="index"/>
+    <file name="family-core-ci5i9i7-9thgen-rgb-3000_zedu-u15832-fr.png" crc="261819817" ref="index"/>
+    <file name="jre-u15876-fr.jpg" crc="4204570716" ref="index"/>
+    <file name="logitech-logo-u15942-fr.jpg" crc="4207248246" ref="index"/>
+    <file name="nvda73n90-u15964-fr.jpg" crc="4254094956" ref="index"/>
+    <file name="nvidia-u15986-fr.jpg" crc="429336" ref="index"/>
+    <file name="msi-gaming-u16008-fr.jpg" crc="531583670" ref="index"/>
+    <file name="wits blanco-u10609-fr2.png" crc="4185400463" ref="index"/>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado2.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="western-digital-logo-300x300-u7516-fr2.jpg" crc="239611041" ref="index"/>
+    <file name="acer-u7514-fr2.jpg" crc="432154433" ref="index"/>
+    <file name="untitled-u7518-fr3.jpg" crc="3898697952" ref="index"/>
+    <file name="toshiba_logo-u7515-fr3.png" crc="3874193974" ref="index"/>
+    <file name="zaragoza-partners-ibm-u7517-fr3.jpg" crc="3790273153" ref="index"/>
+    <file name="mac-u15711-fr3.jpg" crc="461955806" ref="index"/>
+    <file name="microsoft-logo-u15755-fr3.jpg" crc="3963708643" ref="index"/>
+    <file name="dell-u15777-fr2.jpg" crc="374570188" ref="index"/>
+    <file name="siemens-u15799-fr2.jpg" crc="4153999599" ref="index"/>
+    <file name="intel-u15821-fr2.jpg" crc="4274613546" ref="index"/>
+    <file name="redhat-u15843-fr2.jpg" crc="513945149" ref="index"/>
+    <file name="java-u15865-fr3.png" crc="144788443" ref="index"/>
+    <file name="windows-u15887-fr4.png" crc="486923464" ref="index"/>
+    <file name="cisco-u15909-fr3.jpg" crc="455393868" ref="index"/>
+    <file name="logitech-logo-u15931-fr2.jpg" crc="3948216981" ref="index"/>
+    <file name="450_1000-u15953-fr3.jpg" crc="24390643" ref="index"/>
+    <file name="huaweii-u15975-fr2.jpg" crc="52532926" ref="index"/>
+    <file name="msi-u15997-fr.png" crc="361171446" ref="index"/>
+    <file name="ubiquiti_logo-u16019-fr2.png" crc="243664456" ref="index"/>
+    <file name="fortinet-u16041-fr.jpg" crc="211544914" ref="index"/>
+    <file name="wdproducts-u7524-fr2.png" crc="4000921087" ref="index"/>
+    <file name="acer producto-u7521-fr2.jpg" crc="4138766448" ref="index"/>
+    <file name="samsung productos-u7522-fr2.jpg" crc="108006094" ref="index"/>
+    <file name="apple-u15722-fr2.jpg" crc="4180877955" ref="index"/>
+    <file name="microsoft-u15766-fr2.jpg" crc="34987821" ref="index"/>
+    <file name="dell2-u15788-fr2.jpg" crc="3806372335" ref="index"/>
+    <file name="siemens-u15810-fr2.jpg" crc="3987008777" ref="index"/>
+    <file name="family-core-ci5i9i7-9thgen-rgb-3000_zedu-u15832-fr2.png" crc="4205476574" ref="index"/>
+    <file name="redhat3png-u15854-fr.jpg" crc="3771644737" ref="index"/>
+    <file name="jre-u15876-fr2.jpg" crc="275420964" ref="index"/>
+    <file name="logitech-logo-u15942-fr2.jpg" crc="3923648089" ref="index"/>
+    <file name="nvda73n90-u15964-fr2.jpg" crc="3764434227" ref="index"/>
+    <file name="nvidia-u15986-fr2.jpg" crc="205806221" ref="index"/>
+    <file name="msi-gaming-u16008-fr2.jpg" crc="4289420051" ref="index"/>
+    <file name="wits blanco-u10609-fr3.png" crc="42558499" ref="index"/>
+    <file name="formar-una-empresa.jpg" crc="3962878047" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="catalogo-razonado.jpg" crc="190846564" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.jpg" crc="484927115" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="catalogo-razonado-u7964-fr.jpg" crc="347053418" ref="index"/>
+    <file name="catalogo-razonado-u7964-fr2.jpg" crc="4227604961" ref="index"/>
+    <file name="testimonials-u9418-fr.jpg" crc="226543056" ref="index"/>
+  </folder>
+  <file name="index.html" crc="431318728" seo="true" mt="1541461612110" redirect="true"/>
+</manifest>
